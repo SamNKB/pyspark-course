@@ -1,4 +1,4 @@
-Bem vindo ao curso de PySpark da Semana de Estatística de 2024!! 
+Bem vindo ao curso de PySpark da Semana de Estatística de 2024, é um prazer imenso contar com sua presença por aqui!! 
 
 Se quiser me seguir no Linkedin (e me marcar numa fotinha top), só me mandar um convite:
 
